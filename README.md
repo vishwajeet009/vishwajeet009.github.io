@@ -3,5 +3,5 @@
 ## "================================"
 #
 #Enter Your Choice:
-1.info1
-  [GitHub](http://google.com)
+* info1
+   * [GitHub](http://google.com)
